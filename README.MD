@@ -28,7 +28,7 @@
 
 #  O Cálice do Layout 🎧🏋️‍♂️⚔️
 
- > ℹ️ **SOBRE:** Esse é o repositório oficial do ** O Cálice do Layout**, o podcast onde **nerdice** e **bodybuilding** se encontram em um brinde de criatividade, disciplina e bom humor.  
+ > ℹ️ **SOBRE:** Esse é o repositório oficial do **O Cálice do Layout**, o podcast onde **nerdice** e **bodybuilding** se encontram em um brinde de criatividade, disciplina e bom humor.  
 
 Aqui a gente fala de **treino**, **jogos**, **tecnologia**, **cultura geek** e ainda sobra espaço pra filosofia de boteco sobre a vida. Tudo isso no estilão **maromba + nerd** que só o Marcão sabe fazer.
 
