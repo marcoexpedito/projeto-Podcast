@@ -94,4 +94,4 @@ Aqui a gente fala de **treino**, **jogos**, **tecnologia**, **cultura geek** e a
 
 ---
 
-⌨️ com força, sabedoria e memes por [Marcão].(https://github.com/marcoexpedito)
+⌨️ com força, sabedoria e memes por [Marcão](https://github.com/marcoexpedito).
