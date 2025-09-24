@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://open.spotify.com/">
     <img 
-        src="https://img.shields.io/badge/Spotify-O_Cálice_do_Marcão-1DB954?logo=spotify" 
+        src="https://img.shields.io/badge/Spotify-O_Cálice_do_Layout-1DB954?logo=spotify" 
         alt="Spotify -  O Cálice do Layout">
 </a>
 <a href="https://youtube.com/">
