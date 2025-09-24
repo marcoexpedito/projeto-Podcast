@@ -9,7 +9,7 @@
 <a href="https://open.spotify.com/">
     <img 
         src="https://img.shields.io/badge/Spotify-O_Cálice_do_Marcão-1DB954?logo=spotify" 
-        alt="Spotify - O Cálice do Marcão">
+        alt="Spotify -  O Cálice do Layout">
 </a>
 <a href="https://youtube.com/">
 <img 
@@ -19,16 +19,16 @@
 </p>
 
 <p align="center">
-    Bem-vindo ao Cálice do Marcão 🏋️‍♂️⚔️🍷
+    Bem-vindo ao  O Cálice do Layout 🏋️‍♂️⚔️🍷
 </p>
 
 <div align="center">
-    <audio src="output/episodio01.mp3" controls title="O Cálice do Marcão - Episódio 01"></audio>
+    <audio src="output/episodio01.mp3" controls title=" O Cálice do Layout - Episódio 01"></audio>
 </div>
 
-# O Cálice do Marcão 🎧🏋️‍♂️⚔️
+#  O Cálice do Layout 🎧🏋️‍♂️⚔️
 
- > ℹ️ **SOBRE:** Esse é o repositório oficial do **O Cálice do Marcão**, o podcast onde **nerdice** e **bodybuilding** se encontram em um brinde de criatividade, disciplina e bom humor.  
+ > ℹ️ **SOBRE:** Esse é o repositório oficial do ** O Cálice do Layout**, o podcast onde **nerdice** e **bodybuilding** se encontram em um brinde de criatividade, disciplina e bom humor.  
 
 Aqui a gente fala de **treino**, **jogos**, **tecnologia**, **cultura geek** e ainda sobra espaço pra filosofia de boteco sobre a vida. Tudo isso no estilão **maromba + nerd** que só o Marcão sabe fazer.
 
@@ -94,4 +94,4 @@ Aqui a gente fala de **treino**, **jogos**, **tecnologia**, **cultura geek** e a
 
 ---
 
-⌨️ com força, sabedoria e memes por [Marcão.]
+⌨️ com força, sabedoria e memes por [Marcão.](https://github.com/marcoexpedito)
