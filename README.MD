@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/calice-cover.png"
+    src="./.github/assets/calice-cover.png"
     width="300"
 />
 </p>
